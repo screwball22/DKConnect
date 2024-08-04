@@ -28,7 +28,7 @@
         <dependency.mcnative.buildtool>1.0.8.15-SNAPSHOT</dependency.mcnative.buildtool>
         <dependency.mcnative.loader>1.7.75.53</dependency.mcnative.loader>
 
-        <dependeny.jda>4.3.0_283</dependeny.jda>
+        <dependeny.jda>5.0.2</dependeny.jda>
 
         <jetbrains.annotation>20.1.0</jetbrains.annotation>
 
